@@ -3,5 +3,10 @@
 LeagueDirector简体中文版
 
 界面做了完整汉化
-原作者：RiotGames    汉化作者：QiuranQAQ    翻译借鉴：葡萄的叮当猫    技术支持：Nerv.
+
+原作者：RiotGames
+汉化作者：QiuranQAQ
+翻译借鉴：葡萄的叮当猫
+技术支持：Nerv.
+
 Source Code URL：https://github.com/RiotGames/leaguedirector
